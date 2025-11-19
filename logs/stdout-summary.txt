@@ -1,0 +1,55 @@
+Azure OpenAI Fine-tuning Run Summary
+====================================
+
+Project: retail_banking_internal_agent_fine_tune
+Run ID: fjjob-f2d5ce22a63a4a8ea7c66c9c98a1f044
+Base model: gpt-4o-mini-2024-07-18
+Fine-tuned model: gpt-4o-mini-2024-07-18.ft-f2d5ce22a63a4a8ea7c66c9c98a1f044
+
+Status: COMPLETED (Model Evaluation Passed)
+Created at: 2025-11-17 09:44 (local)
+Completed at: 2025-11-17 11:00 (local)
+Duration: 1h 16m 7s
+Training tokens billed: 314,000
+
+Hyperparameters
+---------------
+- Training type: Supervised
+- Epochs: 3
+- Batch size: 2
+- Learning rate multiplier: 1.0
+- Seed: 1102178716
+- Training region: Global
+
+Data
+----
+- Training file: UI/2025-11-17_154352_UTC/retail_banking_internal_agent_1000_for_gpt-4o-mini.jsonl
+- Validation file: (none)
+- Approx. examples: 1000
+- Domain: Internal retail banking procedures (KYC, deposits, Reg E disputes, debit cards, online banking, fraud, fees, transfers, policy lookup, and CRM note-taking).
+
+Training Progress (excerpt)
+---------------------------
+Below is an excerpt from the end of the training log showing per-step loss values:
+
+Nov 17, 2025 10:45 AM  status: Step 1490: training loss=0.27700189238750485
+Nov 17, 2025 10:45 AM  status: Step 1493: training loss=0.18483129143714905
+Nov 17, 2025 10:45 AM  status: Step 1494: training loss=0.2671821415424347
+Nov 17, 2025 10:45 AM  status: Step 1495: training loss=0.20220264792442322
+Nov 17, 2025 10:45 AM  status: Step 1496: training loss=0.1874671718916893
+Nov 17, 2025 10:45 AM  status: Step 1497: training loss=0.2456345111131668
+Nov 17, 2025 10:45 AM  status: Step 1498: training loss=0.18248003721237183
+Nov 17, 2025 10:45 AM  status: Step 1499: training loss=0.23545165359973907
+Nov 17, 2025 10:45 AM  status: Step 1500: training loss=0.18475618958473206
+
+Metric Summary (from Azure charts)
+----------------------------------
+- Initial loss ≈ 8.5, decaying rapidly within the first ~200 steps.
+- Loss stabilized around 0.10–0.25 over the remaining steps.
+- Token accuracy started around 0.25 and converged to ~0.90–0.95.
+- Curves were smooth and stable by the end of training, indicating good convergence.
+
+Notes
+-----
+- Model evaluation in Azure AI Foundry reported "Model Evaluation Passed".
+- This summary file was reconstructed from the Azure AI Foundry UI (run details, logs, and metrics charts) for documentation and portfolio purposes.
