@@ -1,0 +1,34 @@
+{
+  "project_name": "retail_banking_internal_agent_fine_tune",
+  "run_id": "fjjob-f2d5ce22a63a4a8ea7c66c9c98a1f044",
+  "base_model": "gpt-4o-mini-2024-07-18",
+  "fine_tuned_model": "gpt-4o-mini-2024-07-18.ft-f2d5ce22a63a4a8ea7c66c9c98a1f044",
+  "global_step_summary": {
+    "total_steps": 1500,
+    "loss_start": 8.5,
+    "loss_end": 0.18,
+    "loss_min": 0.10,
+    "loss_median_steady_state": 0.18,
+    "token_accuracy_start": 0.25,
+    "token_accuracy_end": 0.92,
+    "token_accuracy_max": 0.95
+  },
+  "sample_step_metrics": [
+    { "step": 50,   "training_loss": 4.5, "token_accuracy": 0.45 },
+    { "step": 100,  "training_loss": 2.0, "token_accuracy": 0.65 },
+    { "step": 200,  "training_loss": 1.0, "token_accuracy": 0.80 },
+    { "step": 400,  "training_loss": 0.40, "token_accuracy": 0.88 },
+    { "step": 800,  "training_loss": 0.25, "token_accuracy": 0.92 },
+    { "step": 1200, "training_loss": 0.22, "token_accuracy": 0.92 },
+    { "step": 1490, "training_loss": 0.27700189238750485, "token_accuracy": 0.90 },
+    { "step": 1493, "training_loss": 0.18483129143714905, "token_accuracy": 0.92 },
+    { "step": 1494, "training_loss": 0.2671821415424347,  "token_accuracy": 0.91 },
+    { "step": 1495, "training_loss": 0.20220264792442322, "token_accuracy": 0.92 },
+    { "step": 1496, "training_loss": 0.1874671718916893,  "token_accuracy": 0.92 },
+    { "step": 1497, "training_loss": 0.2456345111131668,  "token_accuracy": 0.91 },
+    { "step": 1498, "training_loss": 0.18248003721237183, "token_accuracy": 0.92 },
+    { "step": 1499, "training_loss": 0.23545165359973907, "token_accuracy": 0.91 },
+    { "step": 1500, "training_loss": 0.18475618958473206, "token_accuracy": 0.92 }
+  ],
+  "source": "Loss and token accuracy values summarized from Azure AI Foundry fine-tune metrics charts and logs; step-level samples near the end are copied from the job log."
+}
