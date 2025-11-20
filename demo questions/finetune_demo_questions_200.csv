@@ -1,0 +1,201 @@
+id,category,sub_category,question_type,prompt
+1,Fraud & Security,explanation,explanation,What escalation path is required for: debit card decline despite sufficient balance
+2,Fees & Disclosures,explanation,explanation,Outline internal workflow for: business account opening documentation
+3,Fraud & Security,explanation,explanation,How do I troubleshoot internally: ATM cash withdrawal dispute
+4,Escalation & CRM Notes,crm,crm,What escalation path is required for: customer's account locked due to security flag
+5,Fees & Disclosures,crm,crm,Explain policy requirements for: incorrect fee charged on account
+6,Policy Lookup,scenario,scenario,What CRM notes apply when: Reg E dispute for unauthorized Zelle transaction
+7,Online & Mobile Banking,scenario,scenario,Provide internal script for: debit card decline despite sufficient balance
+8,Fees & Disclosures,scenario,scenario,What systems should I check for: fraudulent phishing email reported by customer
+9,Online & Mobile Banking,template,template,What CRM notes apply when: business account opening documentation
+10,Online & Mobile Banking,policy,policy,What systems should I check for: recurring transfer not executing
+11,Online & Mobile Banking,scenario,scenario,What CRM notes apply when: online banking enrollment failure
+12,Payments & Transfers,how-to,how-to,Explain policy requirements for: customer's account locked due to security flag
+13,Disputes (Reg E),scenario,scenario,Describe internal steps for handling: bill pay payment missing
+14,Policy Lookup,escalation,escalation,Describe internal steps for handling: multiple failed login attempts lockout
+15,Disputes (Reg E),explanation,explanation,What systems should I check for: address mismatch during KYC verification
+16,Policy Lookup,escalation,escalation,Outline internal workflow for: incorrect fee charged on account
+17,Escalation & CRM Notes,explanation,explanation,What systems should I check for: wire transfer stuck in pending state
+18,Escalation & CRM Notes,scenario,scenario,Provide internal script for: bill pay payment missing
+19,KYC & Account Opening,explanation,explanation,How do I troubleshoot internally: multiple failed login attempts lockout
+20,Payments & Transfers,guidance,guidance,Provide internal script for: incorrect fee charged on account
+21,Fees & Disclosures,how-to,how-to,What systems should I check for: business account opening documentation
+22,Fraud & Security,crm,crm,Provide internal script for: misapplied loan payment
+23,Disputes (Reg E),policy,policy,Provide internal script for: incorrect fee charged on account
+24,Deposits & Funds Availability,escalation,escalation,Explain policy requirements for: address mismatch during KYC verification
+25,Online & Mobile Banking,template,template,What CRM notes apply when: extended hold placed incorrectly
+26,Online & Mobile Banking,how-to,how-to,What escalation path is required for: recurring transfer not executing
+27,Debit Cards,explanation,explanation,How do I troubleshoot internally: bill pay payment missing
+28,Escalation & CRM Notes,explanation,explanation,Outline internal workflow for: misapplied loan payment
+29,Escalation & CRM Notes,explanation,explanation,Provide internal script for: bill pay payment missing
+30,KYC & Account Opening,crm,crm,What CRM notes apply when: customer's account locked due to security flag
+31,Disputes (Reg E),crm,crm,What escalation path is required for: large check deposit pending beyond expected time
+32,Escalation & CRM Notes,explanation,explanation,Explain policy requirements for: ATM cash withdrawal dispute
+33,Fees & Disclosures,escalation,escalation,Explain policy requirements for: incorrect fee charged on account
+34,Fees & Disclosures,escalation,escalation,What systems should I check for: ACH return for insufficient funds
+35,Online & Mobile Banking,explanation,explanation,Describe internal steps for handling: fraudulent phishing email reported by customer
+36,Fees & Disclosures,policy,policy,Explain policy requirements for: suspected account takeover indicators
+37,KYC & Account Opening,how-to,how-to,What systems should I check for: incorrect fee charged on account
+38,Fraud & Security,scenario,scenario,What CRM notes apply when: business account opening documentation
+39,Online & Mobile Banking,scenario,scenario,What CRM notes apply when: customer's account locked due to security flag
+40,Disputes (Reg E),how-to,how-to,What CRM notes apply when: travel notice not appearing on debit card
+41,Fees & Disclosures,guidance,guidance,Outline internal workflow for: suspected account takeover indicators
+42,Payments & Transfers,crm,crm,How do I troubleshoot internally: fraudulent phishing email reported by customer
+43,Fees & Disclosures,guidance,guidance,Describe internal steps for handling: address mismatch during KYC verification
+44,Fees & Disclosures,how-to,how-to,What CRM notes apply when: ACH return for insufficient funds
+45,Debit Cards,crm,crm,What escalation path is required for: mobile app crash after login
+46,Debit Cards,crm,crm,What CRM notes apply when: Reg E dispute for unauthorized Zelle transaction
+47,Fraud & Security,guidance,guidance,Outline internal workflow for: customer's account locked due to security flag
+48,Online & Mobile Banking,how-to,how-to,What CRM notes apply when: Reg E dispute for unauthorized Zelle transaction
+49,Policy Lookup,how-to,how-to,Explain policy requirements for: misapplied loan payment
+50,Payments & Transfers,template,template,What escalation path is required for: incorrect fee charged on account
+51,Escalation & CRM Notes,how-to,how-to,What escalation path is required for: ACH return for insufficient funds
+52,Deposits & Funds Availability,template,template,Outline internal workflow for: online banking enrollment failure
+53,Escalation & CRM Notes,escalation,escalation,Outline internal workflow for: address mismatch during KYC verification
+54,Debit Cards,explanation,explanation,What CRM notes apply when: mobile app crash after login
+55,Deposits & Funds Availability,crm,crm,How do I troubleshoot internally: fraudulent phishing email reported by customer
+56,Debit Cards,escalation,escalation,How do I troubleshoot internally: multiple failed login attempts lockout
+57,Fraud & Security,scenario,scenario,Outline internal workflow for: debit card decline despite sufficient balance
+58,Escalation & CRM Notes,guidance,guidance,Describe internal steps for handling: online banking enrollment failure
+59,Online & Mobile Banking,policy,policy,What escalation path is required for: misapplied loan payment
+60,Policy Lookup,crm,crm,What CRM notes apply when: business account opening documentation
+61,Deposits & Funds Availability,scenario,scenario,What escalation path is required for: incorrect fee charged on account
+62,Policy Lookup,template,template,Explain policy requirements for: fraudulent phishing email reported by customer
+63,Debit Cards,crm,crm,Provide internal script for: debit card decline despite sufficient balance
+64,Online & Mobile Banking,explanation,explanation,Explain policy requirements for: incorrect fee charged on account
+65,Online & Mobile Banking,explanation,explanation,What escalation path is required for: travel notice not appearing on debit card
+66,KYC & Account Opening,how-to,how-to,Explain policy requirements for: wire transfer stuck in pending state
+67,Payments & Transfers,escalation,escalation,Provide internal script for: mobile app crash after login
+68,Online & Mobile Banking,crm,crm,Provide internal script for: misapplied loan payment
+69,Online & Mobile Banking,explanation,explanation,Outline internal workflow for: business account opening documentation
+70,Escalation & CRM Notes,escalation,escalation,Describe internal steps for handling: multiple failed login attempts lockout
+71,Debit Cards,escalation,escalation,What systems should I check for: misapplied loan payment
+72,Policy Lookup,policy,policy,Outline internal workflow for: wire transfer stuck in pending state
+73,Escalation & CRM Notes,policy,policy,What systems should I check for: debit card decline despite sufficient balance
+74,Online & Mobile Banking,crm,crm,Explain policy requirements for: incorrect fee charged on account
+75,Fees & Disclosures,how-to,how-to,Explain policy requirements for: ATM cash withdrawal dispute
+76,Payments & Transfers,guidance,guidance,How do I troubleshoot internally: incorrect fee charged on account
+77,Online & Mobile Banking,crm,crm,Outline internal workflow for: multiple failed login attempts lockout
+78,Deposits & Funds Availability,how-to,how-to,What CRM notes apply when: travel notice not appearing on debit card
+79,Disputes (Reg E),scenario,scenario,Provide internal script for: multiple failed login attempts lockout
+80,Escalation & CRM Notes,policy,policy,Explain policy requirements for: suspected account takeover indicators
+81,Fraud & Security,guidance,guidance,What CRM notes apply when: bill pay payment missing
+82,Online & Mobile Banking,escalation,escalation,Outline internal workflow for: recurring transfer not executing
+83,Online & Mobile Banking,how-to,how-to,How do I troubleshoot internally: business account opening documentation
+84,Policy Lookup,how-to,how-to,Explain policy requirements for: mobile app crash after login
+85,Online & Mobile Banking,explanation,explanation,Explain policy requirements for: online banking enrollment failure
+86,Online & Mobile Banking,crm,crm,Explain policy requirements for: travel notice not appearing on debit card
+87,Deposits & Funds Availability,escalation,escalation,Describe internal steps for handling: ACH return for insufficient funds
+88,KYC & Account Opening,escalation,escalation,Provide internal script for: mobile app crash after login
+89,Fraud & Security,policy,policy,What escalation path is required for: fraudulent phishing email reported by customer
+90,Disputes (Reg E),escalation,escalation,How do I troubleshoot internally: fraudulent phishing email reported by customer
+91,Escalation & CRM Notes,policy,policy,What CRM notes apply when: ATM cash withdrawal dispute
+92,Payments & Transfers,how-to,how-to,How do I troubleshoot internally: extended hold placed incorrectly
+93,Policy Lookup,explanation,explanation,What escalation path is required for: ACH return for insufficient funds
+94,KYC & Account Opening,crm,crm,What systems should I check for: Reg E dispute for unauthorized Zelle transaction
+95,Online & Mobile Banking,how-to,how-to,How do I troubleshoot internally: travel notice not appearing on debit card
+96,Deposits & Funds Availability,policy,policy,What CRM notes apply when: incorrect fee charged on account
+97,Fees & Disclosures,how-to,how-to,What escalation path is required for: Reg E dispute for unauthorized Zelle transaction
+98,Escalation & CRM Notes,explanation,explanation,Outline internal workflow for: ACH return for insufficient funds
+99,Payments & Transfers,policy,policy,Outline internal workflow for: ACH return for insufficient funds
+100,Policy Lookup,crm,crm,How do I troubleshoot internally: ACH return for insufficient funds
+101,Deposits & Funds Availability,guidance,guidance,Describe internal steps for handling: recurring transfer not executing
+102,Deposits & Funds Availability,scenario,scenario,Provide internal script for: misapplied loan payment
+103,Payments & Transfers,policy,policy,What escalation path is required for: Reg E dispute for unauthorized Zelle transaction
+104,Debit Cards,how-to,how-to,Explain policy requirements for: mobile app crash after login
+105,Policy Lookup,scenario,scenario,What CRM notes apply when: address mismatch during KYC verification
+106,Deposits & Funds Availability,crm,crm,What escalation path is required for: ATM cash withdrawal dispute
+107,Online & Mobile Banking,crm,crm,Provide internal script for: debit card decline despite sufficient balance
+108,Fees & Disclosures,policy,policy,What systems should I check for: Reg E dispute for unauthorized Zelle transaction
+109,Payments & Transfers,crm,crm,Provide internal script for: fraudulent phishing email reported by customer
+110,Debit Cards,scenario,scenario,Provide internal script for: fraudulent phishing email reported by customer
+111,Payments & Transfers,policy,policy,Describe internal steps for handling: travel notice not appearing on debit card
+112,Fraud & Security,crm,crm,Outline internal workflow for: Reg E dispute for unauthorized Zelle transaction
+113,Fraud & Security,policy,policy,Explain policy requirements for: debit card decline despite sufficient balance
+114,Disputes (Reg E),scenario,scenario,What systems should I check for: online banking enrollment failure
+115,Debit Cards,scenario,scenario,Outline internal workflow for: address mismatch during KYC verification
+116,Fees & Disclosures,scenario,scenario,What escalation path is required for: fraudulent phishing email reported by customer
+117,Policy Lookup,how-to,how-to,How do I troubleshoot internally: incorrect fee charged on account
+118,Policy Lookup,template,template,How do I troubleshoot internally: debit card decline despite sufficient balance
+119,Fees & Disclosures,guidance,guidance,How do I troubleshoot internally: multiple failed login attempts lockout
+120,Deposits & Funds Availability,template,template,What systems should I check for: bill pay payment missing
+121,Policy Lookup,template,template,What systems should I check for: travel notice not appearing on debit card
+122,Payments & Transfers,policy,policy,Outline internal workflow for: business account opening documentation
+123,Online & Mobile Banking,guidance,guidance,Describe internal steps for handling: Reg E dispute for unauthorized Zelle transaction
+124,Deposits & Funds Availability,crm,crm,Outline internal workflow for: online banking enrollment failure
+125,Deposits & Funds Availability,template,template,What escalation path is required for: suspected account takeover indicators
+126,Fraud & Security,how-to,how-to,Explain policy requirements for: ACH return for insufficient funds
+127,Deposits & Funds Availability,policy,policy,Explain policy requirements for: wire transfer stuck in pending state
+128,Fraud & Security,policy,policy,Explain policy requirements for: customer's account locked due to security flag
+129,Disputes (Reg E),escalation,escalation,What systems should I check for: online banking enrollment failure
+130,Payments & Transfers,scenario,scenario,What systems should I check for: Reg E dispute for unauthorized Zelle transaction
+131,Debit Cards,scenario,scenario,What CRM notes apply when: fraudulent phishing email reported by customer
+132,KYC & Account Opening,how-to,how-to,Explain policy requirements for: extended hold placed incorrectly
+133,Escalation & CRM Notes,policy,policy,Describe internal steps for handling: mobile app crash after login
+134,Payments & Transfers,policy,policy,What escalation path is required for: mobile app crash after login
+135,Escalation & CRM Notes,template,template,How do I troubleshoot internally: recurring transfer not executing
+136,Disputes (Reg E),guidance,guidance,Explain policy requirements for: business account opening documentation
+137,Disputes (Reg E),policy,policy,Provide internal script for: misapplied loan payment
+138,Fraud & Security,scenario,scenario,What escalation path is required for: wire transfer stuck in pending state
+139,KYC & Account Opening,explanation,explanation,Describe internal steps for handling: ACH return for insufficient funds
+140,KYC & Account Opening,crm,crm,What escalation path is required for: Reg E dispute for unauthorized Zelle transaction
+141,KYC & Account Opening,template,template,What CRM notes apply when: travel notice not appearing on debit card
+142,Debit Cards,how-to,how-to,Outline internal workflow for: debit card decline despite sufficient balance
+143,Deposits & Funds Availability,template,template,What escalation path is required for: travel notice not appearing on debit card
+144,Deposits & Funds Availability,crm,crm,What escalation path is required for: suspected account takeover indicators
+145,Deposits & Funds Availability,crm,crm,What CRM notes apply when: misapplied loan payment
+146,Debit Cards,escalation,escalation,Describe internal steps for handling: ATM cash withdrawal dispute
+147,Fees & Disclosures,escalation,escalation,What CRM notes apply when: bill pay payment missing
+148,Disputes (Reg E),how-to,how-to,Outline internal workflow for: online banking enrollment failure
+149,Debit Cards,template,template,What escalation path is required for: ATM cash withdrawal dispute
+150,Debit Cards,how-to,how-to,What CRM notes apply when: misapplied loan payment
+151,Debit Cards,explanation,explanation,What systems should I check for: bill pay payment missing
+152,Payments & Transfers,policy,policy,What escalation path is required for: recurring transfer not executing
+153,Fees & Disclosures,template,template,Describe internal steps for handling: online banking enrollment failure
+154,Debit Cards,scenario,scenario,Explain policy requirements for: debit card decline despite sufficient balance
+155,Escalation & CRM Notes,guidance,guidance,What systems should I check for: ACH return for insufficient funds
+156,Escalation & CRM Notes,guidance,guidance,Explain policy requirements for: recurring transfer not executing
+157,Payments & Transfers,policy,policy,What CRM notes apply when: ATM cash withdrawal dispute
+158,Debit Cards,template,template,Provide internal script for: ACH return for insufficient funds
+159,Debit Cards,guidance,guidance,What escalation path is required for: large check deposit pending beyond expected time
+160,Policy Lookup,scenario,scenario,How do I troubleshoot internally: extended hold placed incorrectly
+161,Online & Mobile Banking,scenario,scenario,What CRM notes apply when: recurring transfer not executing
+162,Fees & Disclosures,explanation,explanation,Explain policy requirements for: recurring transfer not executing
+163,Escalation & CRM Notes,policy,policy,Describe internal steps for handling: wire transfer stuck in pending state
+164,Online & Mobile Banking,crm,crm,How do I troubleshoot internally: travel notice not appearing on debit card
+165,Online & Mobile Banking,explanation,explanation,Provide internal script for: large check deposit pending beyond expected time
+166,Debit Cards,guidance,guidance,Outline internal workflow for: large check deposit pending beyond expected time
+167,Policy Lookup,template,template,What systems should I check for: ATM cash withdrawal dispute
+168,Escalation & CRM Notes,scenario,scenario,Provide internal script for: extended hold placed incorrectly
+169,Fraud & Security,crm,crm,What escalation path is required for: ATM cash withdrawal dispute
+170,Online & Mobile Banking,scenario,scenario,Provide internal script for: ACH return for insufficient funds
+171,Payments & Transfers,guidance,guidance,Describe internal steps for handling: ATM cash withdrawal dispute
+172,Policy Lookup,template,template,Provide internal script for: address mismatch during KYC verification
+173,Deposits & Funds Availability,how-to,how-to,Explain policy requirements for: business account opening documentation
+174,Policy Lookup,escalation,escalation,What CRM notes apply when: debit card decline despite sufficient balance
+175,Debit Cards,scenario,scenario,Provide internal script for: incorrect fee charged on account
+176,Deposits & Funds Availability,explanation,explanation,Provide internal script for: Reg E dispute for unauthorized Zelle transaction
+177,Debit Cards,escalation,escalation,Outline internal workflow for: customer's account locked due to security flag
+178,Disputes (Reg E),explanation,explanation,How do I troubleshoot internally: recurring transfer not executing
+179,Fees & Disclosures,how-to,how-to,Provide internal script for: incorrect fee charged on account
+180,Escalation & CRM Notes,crm,crm,What CRM notes apply when: wire transfer stuck in pending state
+181,Disputes (Reg E),policy,policy,Explain policy requirements for: mobile app crash after login
+182,Disputes (Reg E),policy,policy,Provide internal script for: travel notice not appearing on debit card
+183,Escalation & CRM Notes,crm,crm,Provide internal script for: business account opening documentation
+184,Disputes (Reg E),scenario,scenario,Provide internal script for: address mismatch during KYC verification
+185,Debit Cards,escalation,escalation,Explain policy requirements for: fraudulent phishing email reported by customer
+186,Disputes (Reg E),how-to,how-to,Provide internal script for: multiple failed login attempts lockout
+187,Fees & Disclosures,template,template,How do I troubleshoot internally: wire transfer stuck in pending state
+188,Fees & Disclosures,guidance,guidance,Describe internal steps for handling: extended hold placed incorrectly
+189,Debit Cards,explanation,explanation,Provide internal script for: incorrect fee charged on account
+190,Disputes (Reg E),how-to,how-to,Provide internal script for: business account opening documentation
+191,Deposits & Funds Availability,guidance,guidance,Outline internal workflow for: Reg E dispute for unauthorized Zelle transaction
+192,KYC & Account Opening,template,template,What escalation path is required for: ATM cash withdrawal dispute
+193,Policy Lookup,how-to,how-to,Outline internal workflow for: customer's account locked due to security flag
+194,Debit Cards,policy,policy,What CRM notes apply when: bill pay payment missing
+195,Escalation & CRM Notes,scenario,scenario,How do I troubleshoot internally: incorrect fee charged on account
+196,Payments & Transfers,how-to,how-to,What CRM notes apply when: address mismatch during KYC verification
+197,Debit Cards,scenario,scenario,How do I troubleshoot internally: large check deposit pending beyond expected time
+198,Policy Lookup,crm,crm,What CRM notes apply when: mobile app crash after login
+199,Fraud & Security,template,template,Explain policy requirements for: travel notice not appearing on debit card
+200,Escalation & CRM Notes,explanation,explanation,What escalation path is required for: Reg E dispute for unauthorized Zelle transaction
